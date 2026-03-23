@@ -1,9 +1,13 @@
-# 🎮 My Games Collection
+# The "school work
 > **Made by Adem D**
 
-Welcome to my gaming repository! Here you can find out about the games I play, build, or love. Click the buttons below to check out the gameplay on YouTube.
+Welcome to the man cave 
+
+<img width="225" height="225" alt="image" src="https://github.com/user-attachments/assets/e86ef6e7-2430-4103-ad22-2bfa411073bb" />
 
 ---
+
+
 
 ### 🕹️ Featured Games
 
