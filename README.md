@@ -22,6 +22,7 @@ Experience the ultimate open-world adventure.
 ---
 
 ### 🌐 My Socials
-Want to see more? Check out my main channel:
 
-[![YouTube Channel](https://img.shields.io/badge/Subscribe_to_Adem_D-282828?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/)
+### 📸 Stay Connected
+
+[![Follow on Instagram](https://img.shields.io/badge/Follow_Adem_D-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/YOUR_USERNAME_HERE/)
