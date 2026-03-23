@@ -19,7 +19,8 @@ Welcome to the man cave
 <img width="92" height="92" alt="image" src="https://github.com/user-attachments/assets/aaa50aee-22a7-4848-aca1-d23c4e2bdb8f" />
 
 #### 3. tiny square big tower
-<img width="92" height="54" alt="image" src="https://github.com/user-attachments/assets/8b9f3eb5-04a6-4216-9d89-7fd2852facd9" />
+<img width="600" height="350" alt="image" src="https://github.com/user-attachments/assets/6d886d40-0279-448d-b93d-75990f5f635b" />
+
 
 ---
 ---
