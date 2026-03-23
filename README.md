@@ -22,7 +22,9 @@ Experience the ultimate open-world adventure.
 ---
 ---
 
+---
+
 ### 💬 Questions?
 If you have any questions about my games or projects, feel free to reach out!
 
-[![Message me on Instagram](https://img.shields.io/badge/Message_me_on_Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)]([https://www.instagram.com/direct/inbox/](https://www.instagram.com/ademdervovic/))
+[![Message me on Instagram](https://img.shields.io/badge/Message_me_on_Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/ademdervovic/)
