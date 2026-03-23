@@ -16,7 +16,7 @@ Welcome to the man cave
 
 #### 2. bloxorz
 
-<img width="92" height="92" alt="image" src="https://github.com/user-attachments/assets/aaa50aee-22a7-4848-aca1-d23c4e2bdb8f" />
+<img width="296" height="170" alt="image" src="https://github.com/user-attachments/assets/aaa50aee-22a7-4848-aca1-d23c4e2bdb8f" />
 
 #### 3. tiny square big tower
 <img width="296" height="170" alt="image" src="https://github.com/user-attachments/assets/6d886d40-0279-448d-b93d-75990f5f635b" />
