@@ -11,13 +11,12 @@ Welcome to the man cave
 
 ### 🕹️ Featured Games
 
-#### 1. Minecraft
-Explore, build, and survive in a blocky world! 
-[![Watch Trailer](https://img.shields.io/badge/Watch_Trailer-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/)
+#### 1.slope
+<img width="296" height="170" alt="image" src="https://github.com/user-attachments/assets/df083846-af0d-42cf-bc2f-d76bc3a532dc" />
 
-#### 2. Roblox
-Discover millions of 3D experiences created by a global community.
-[![Watch Gameplay](https://img.shields.io/badge/Watch_Gameplay-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/)
+#### 2. bloxorz
+
+<img width="92" height="92" alt="image" src="https://github.com/user-attachments/assets/aaa50aee-22a7-4848-aca1-d23c4e2bdb8f" />
 
 #### 3. Grand Theft Auto V
 Experience the ultimate open-world adventure.
