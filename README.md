@@ -10,6 +10,9 @@ Welcome to my gaming repository! Here you can find out about the games I build
 #### slope
 <img width="306" height="165" alt="image" src="https://github.com/user-attachments/assets/55e6adc2-cb43-4681-9991-8f80a5aeee59" />
 
+
+[![Slope Game](https://github.com/user-attachments/assets/9027929f-36dd-4326-a39c-97ea79356b7a)](https://ademdervovic-lang.github.io/slope/)
+
 #### big tower tiny square
 <img width="306" height="165" alt="image" src="https://github.com/user-attachments/assets/95f2f4d0-6b94-4473-ad78-121482cbbe47" />
 
