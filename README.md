@@ -1,24 +1,11 @@
 # 🎮 My Games Collection
 > **Made by Adem D**
 
-Welcome to my gaming repository! Here you can find out about the games I build
+Welcome to slope grinders
 
----
-
-### 🕹️ Featured Games
 
 #### slope
 [![Slope Game](https://github.com/user-attachments/assets/9027929f-36dd-4326-a39c-97ea79356b7a)](https://ademdervovic-lang.github.io/slope/)
-
-#### big tower tiny square
-<img width="306" height="165" alt="image" src="https://github.com/user-attachments/assets/95f2f4d0-6b94-4473-ad78-121482cbbe47" />
-
-#### flappy bird
-<img width="306" height="165" alt="image" src="https://github.com/user-attachments/assets/ebac99dc-7116-4d7d-8368-27468bc3bdab" />
-
-
-
----
 
 ### 💬 Questions?
 If you have any questions about my games or projects, feel free to reach out!
