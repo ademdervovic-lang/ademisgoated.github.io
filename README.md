@@ -1,5 +1,5 @@
 # 🎮 My Games Collection
-> **Made by Adem D**
+> **Made by The goat**
 
 Welcome to slope grinders
 
