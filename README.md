@@ -13,8 +13,8 @@ Welcome to my gaming repository! Here you can find out about the games I build
 #### big tower tiny square
 <img width="306" height="165" alt="image" src="https://github.com/user-attachments/assets/95f2f4d0-6b94-4473-ad78-121482cbbe47" />
 
-#### subway surfers
----<img width="306" height="165" alt="image" src="https://github.com/user-attachments/assets/82c5ed7d-a6af-4c4e-9e85-4901a0b4a47b" />
+#### Crappy bird
+<img width="200" height="355" alt="image" src="https://github.com/user-attachments/assets/44a0e25f-517e-4822-98ac-f71e7a44dc74" />
 
 
 ---
