@@ -14,7 +14,7 @@ Welcome to my gaming repository! Here you can find out about the games I build
 <img width="306" height="165" alt="image" src="https://github.com/user-attachments/assets/95f2f4d0-6b94-4473-ad78-121482cbbe47" />
 
 #### flappy bird
-<img width="3840" height="2160" alt="image" src="https://github.com/user-attachments/assets/ebac99dc-7116-4d7d-8368-27468bc3bdab" />
+<img width="306" height="165" alt="image" src="https://github.com/user-attachments/assets/ebac99dc-7116-4d7d-8368-27468bc3bdab" />
 
 
 
