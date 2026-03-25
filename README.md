@@ -1,4 +1,4 @@
-# 🎮 My Games Collection
+# SLOPE
 > **Made by The goat**
 
 Welcome to slope grinders
